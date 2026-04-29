@@ -121,7 +121,7 @@
     },
     {
       "parameters": {
-        "content": "## Step 1: Upserting the PDF\n### Fetch file from Google Drive, split it into chunks and insert into Supabase index\n\n",
+        "content": "## Step 1: Upserting the text file\n### Fetch file from Google Drive, split it into chunks and insert into Supabase index\n\n",
         "height": 732.3675002130781,
         "width": 772.0680602743597,
         "color": 6
